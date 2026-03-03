@@ -1,0 +1,5 @@
+{
+  "name": "Home Hub",
+  "description": "A simple, elderly-friendly smart home control center with large buttons and clear navigation.",
+  "requestFramePermissions": []
+}
